@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Thiago Cardoso</h3>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-Full Stack Software Engineer with over 15 years of experience in a wide of Technologies on Software Development in mobile applications using Framework Java and development backend and frontend of projects using PHP, C# (ASP.NET) and Javascript. Five years of experience developing projects using rest apis and microservice structure with language Ruby on Rails, NodeJS, ReactJS and React Native.
+Full Stack Software Engineer with 15 years of experience in a wide of Technologies on Software Development in mobile applications using Framework Java and development backend and frontend of projects using PHP, C# (ASP.NET) and Javascript. Five years of experience developing projects using rest apis and microservice structure with language Ruby on Rails, NodeJS, ReactJS and React Native.
 
 - 🔭 🔍 In constant learning and searching of new challenges.
 
