@@ -5,7 +5,7 @@ Full Stack Software Engineer with over 15 years of experience in a wide of Techn
 
 - 🔭 🔍 In constant learning and searching of new challenges.
 
-- 🌱 I’m currently learning **Next, Elixir**
+- 🌱 I’m currently learning **Elixir** and making a Full Cycle 3.0 course.
 
 - 🎯 My goal is through the technology help to make a better world.🌍
 
